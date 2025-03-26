@@ -1,1 +1,17 @@
+Sales_Report_Project/
+├── Stored_Procedures/
+│   ├── get_customer_wise_sale_report.sql
+│   ├── get_forecast_accuracy.sql
+│   ├── get_top_n_customers_by_net_sales.sql
+│   ├── get_top_n_market_by_net_sales.sql
+│   └── get_top_n_products_by_net_sales.sql
+├── Views/
+│   ├── gross_sales_view.sql
+│   ├── net_sales_view.sql
+│   ├── sales_postinv_discount_view.sql
+│   └── sales_preinv_discount_view.sql
+├── Documentation/
+│   └── README.md
+└── Backup/
+    └── old_versions/
 
