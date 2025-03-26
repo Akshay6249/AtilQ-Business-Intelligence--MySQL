@@ -57,5 +57,4 @@ The SQL procedures and views help generate detailed insights for data-driven dec
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git
-](https://github.com/Akshay6249/AtilQ-Business-Intelligence--MySQL/commits?author=Akshay6249)
+   git clone https://github.com/Akshay6249/AtilQ-Business-Intelligence--MySQL/commits?author=Akshay6249
